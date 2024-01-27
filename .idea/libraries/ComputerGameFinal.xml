@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ComputerGameFinal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ComputerGameFinal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
